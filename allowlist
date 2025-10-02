@@ -3,14 +3,13 @@
 ! Description: Leon's malicious and advertisement websites DNS Allowlist
 ! Homepage: https://github.com/LeonCB/allowlist
 ! License: https://github.com/LeonCB/allowlist?tab=GPL-3.0-1-ov-file
-! Last modified: 2 Oktober 2025 09:18 (GMT+1)
+! Last modified: 2 September 2025 13:27 (GMT+1)
 ! Syntax: AdBlock
-! Number of entries: 34
+! Number of entries: 33
 !!
 ||1drv.ms^
 ||aax-eu.amazon.nl^
 ||aria.microsoft.com^
-||aslbislfoundation.org^
 ||bit.ly^
 ||bitly.com^
 ||clickserve.dartsearch.net^
